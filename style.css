@@ -72,6 +72,11 @@ p {
     margin-inline-end: 0px;
 }
 
+hr {
+    border-top: 1px solid #5b6ba5;
+    width: 300px;
+}
+
 a {
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
